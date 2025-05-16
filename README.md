@@ -32,7 +32,7 @@ This Cypress test automates two scenarios for:
 
 ---
 
-## 🛠 Project Structure
+## Project Structure
 
 ```
 WEB_AUT_Anton_Volkov_MD2/
