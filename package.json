@@ -1,0 +1,11 @@
+{
+  "name": "web_aut_anton_volkov_md2",
+  "version": "1.0.0",
+  "description": "MD#2 task for CURA appointment automation",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
