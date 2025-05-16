@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+
+# Lockfile
+package-lock.json
+
+# OS/System
+.DS_Store
